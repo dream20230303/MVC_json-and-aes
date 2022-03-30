@@ -1,0 +1,23 @@
+﻿  AES.cpp
+  ASEMG.cpp
+C:\Users\zhous\source\repos\PMangerSystem\ASEMG.cpp(17,44): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\zhous\source\repos\PMangerSystem\ASEMG.cpp(25,32): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\zhous\source\repos\PMangerSystem\ASEMG.cpp(67,14): warning C4804: “<=”: 在操作中使用类型“bool”不安全
+C:\Users\zhous\source\repos\PMangerSystem\ASEMG.cpp(70,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Base64.cpp
+C:\Users\zhous\source\repos\PMangerSystem\Base64.cpp(59,39): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\zhous\source\repos\PMangerSystem\Base64.cpp(70,69): warning C4267: “=”: 从“size_t”转换到“unsigned char”，可能丢失数据
+C:\Users\zhous\source\repos\PMangerSystem\Base64.cpp(87,65): warning C4267: “=”: 从“size_t”转换到“unsigned char”，可能丢失数据
+  Data.cpp
+  DataJson.cpp
+C:\Users\zhous\source\repos\PMangerSystem\DataJson.h(6,9): fatal error C1083: 无法打开包括文件: “json/json.h”: No such file or directory
+  DataMg.cpp
+  PMangerSystem.cpp
+C:\Users\zhous\source\repos\PMangerSystem\DataJson.h(6,9): fatal error C1083: 无法打开包括文件: “json/json.h”: No such file or directory
+  json_reader.cpp
+C:\Users\zhous\source\repos\PMangerSystem\src\json_reader.cpp(7,10): fatal error C1083: 无法打开包括文件: “json/assertions.h”: No such file or directory
+  json_value.cpp
+C:\Users\zhous\source\repos\PMangerSystem\src\json_value.cpp(7,10): fatal error C1083: 无法打开包括文件: “json/assertions.h”: No such file or directory
+  json_writer.cpp
+C:\Users\zhous\source\repos\PMangerSystem\src\json_writer.cpp(7,10): fatal error C1083: 无法打开包括文件: “json/writer.h”: No such file or directory
+  View.cpp

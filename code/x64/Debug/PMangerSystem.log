@@ -1,0 +1,6 @@
+﻿  DataJson.cpp
+C:\Users\zhous\source\repos\PMangerSystem\DataJson.cpp(159,32): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\zhous\source\repos\PMangerSystem\DataJson.cpp(176,31): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\zhous\source\repos\PMangerSystem\DataJson.cpp(198,14): warning C4804: “<=”: 在操作中使用类型“bool”不安全
+C:\Users\zhous\source\repos\PMangerSystem\DataJson.cpp(201,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  PMangerSystem.vcxproj -> C:\Users\zhous\source\repos\PMangerSystem\x64\Debug\PMangerSystem.exe
