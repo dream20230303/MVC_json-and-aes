@@ -1,19 +1,15 @@
 # MVC_json-and-aes
 2022年3月30日 16:10:47
 json and aes
-<<<<<<< HEAD
 
+json ：jsoncpp
 
+aes ：csdn
 
 json文件格式：
 
-```
-=======
-aes 参考 CSDN
-json 使用jsoncpp
+```json
 
-json文件格式
->>>>>>> 7da5c5873fa045132943fd1417a97f990c11cdf8
 {
 "member" :
 [
@@ -44,8 +40,6 @@ json文件格式
   }
 ]
 }
-<<<<<<< HEAD
+
 ```
 
-=======
->>>>>>> 7da5c5873fa045132943fd1417a97f990c11cdf8
