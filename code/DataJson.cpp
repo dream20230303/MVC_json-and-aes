@@ -77,7 +77,7 @@ void DATAJSON::writeJson(DATA& data,std::string& pathname2,std::map<std::string,
 {
     for (auto p : map1)
     {
-        int i = 0;
+       static int i = 0;
        
         root["member"][i][dataS.id] = p.first;
         root["member"][i][dataS.age]=p.second.GetAge();
